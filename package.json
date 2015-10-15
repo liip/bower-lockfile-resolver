@@ -1,0 +1,27 @@
+{
+  "name": "bower-lockfile-resolver",
+  "version": "0.0.1",
+  "description": "dds a missing feature of bower: a lockfile with all pacakages versions pinned",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liip/bower-lockfile-resolver.git"
+  },
+  "keywords": [
+    "bower",
+    "composer",
+    "lockfile",
+    "versions",
+    "security",
+    "pinned"
+  ],
+  "author": "https://www.liip.ch/en",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liip/bower-lockfile-resolver/issues"
+  },
+  "homepage": "https://github.com/liip/bower-lockfile-resolver#readme"
+}
