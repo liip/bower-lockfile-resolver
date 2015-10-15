@@ -1,7 +1,7 @@
 #STATUS
 Work In on Bower* is hopeless:
 
-[alt tag](https://raw.githubusercontent.com/liip/bower-lockfile-resolver/master/docs/most-evil-bower.jpg)
+[status](https://raw.github.com/liip/bower-lockfile-resolver/master/docs/most-evil-bower.jpg)
 
 #WAT
 Adds a missing feature of bower: a lockfile with all packages versions pinned
