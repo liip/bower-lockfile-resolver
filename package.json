@@ -1,7 +1,7 @@
 {
   "name": "bower-lockfile-resolver",
   "version": "0.0.1",
-  "description": "dds a missing feature of bower: a lockfile with all pacakages versions pinned",
+  "description": "Adds a missing feature of bower: a lockfile with all packages versions pinned",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/liip/bower-lockfile-resolver/issues"
   },
-  "homepage": "https://github.com/liip/bower-lockfile-resolver#readme"
+  "homepage": "https://github.com/liip/bower-lockfile-resolver#readme",
+  "dependencies": {
+    "fs-extra-promise": "^0.3.0",
+    "tmp": "0.0.28"
+  }
 }
